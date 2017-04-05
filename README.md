@@ -10,11 +10,8 @@ yarn install -g lucidsort
 
 ##Usage
 
-To get random location:
-
     let lucidsort = require('lucidsort');
-
-    let randomArray = [{b: 2, a: 19},{b: 0, a: 11}];
-    let sortedObj = randomObj.lucidSort();
+    let sampleArray = [{b: 2, a: 19},{b: 0, a: 11}];
+    let sortedObj = sampleArray.sort((lucidsort.lucidSort());
 
 
