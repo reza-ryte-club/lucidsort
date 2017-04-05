@@ -1,6 +1,6 @@
-exports.lucidSort(param) {
+exports.lucidSort(param) = function() {
   return _sort(param);
-}
+};
 
 function _sort(param) {
   var sortOrder = 1;
