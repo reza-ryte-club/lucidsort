@@ -1,4 +1,4 @@
-exports.lucidSort() = function(param) {
+exports.lucidSort = function(param) {
   return _sort(param);
 };
 
