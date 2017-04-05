@@ -1,0 +1,29 @@
+{
+  "name": "lucidsort",
+  "description": "Sort everything",
+  "version": "0.0.1",
+  "author": {
+    "name": "M Rezaur Rahman",
+    "url": "https://github.com/reza-ryte-club/"
+  },
+  "homepage": "https://github.com/reza-ryte-club/lucidsort.git",
+  "contributors": [],
+  "devDependencies": {},
+  "dependencies": {},
+  "main": "sort.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reza-ryte-club/lucidsort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reza-ryte-club/lucidsort/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sort",
+    "object"
+  ]
+}
